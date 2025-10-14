@@ -8,14 +8,13 @@
 
 - 🔭 I am also exploring **practical applications in hardware, as well as robotics and embedded systems development**.
 
+- 🎯 Hobbies: **playing chess, Go, VRChat, football, and swimming**
 
 - 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en)
 
 - 👨‍💻 Previously, I served as the Full stack developer at **[Denovit](https://www.denovit.nl/)**
 
 - 📫 Email: [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
-
-- 🎯 Hobbies: **playing chess, Go, VRChat, football, and swimming**
 
 ###
 
