@@ -80,7 +80,6 @@
 - **[ServiceIT](https://github.com/RuikeYuan/ServiceIT) (2022)**: IT service management tool for streamlining support requests, asset tracking, and workflow automation.
 
 ###
-s
 
 
 <div align="center">
