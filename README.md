@@ -14,7 +14,7 @@
 
 - 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en)
 
-- 👨‍💻 Previously, I served as a Full Stack Developer at **[Denovit](https://www.denovit.nl/)**.
+- 👨‍💻 Previously, I served as a Full Stack Developer(mainly backend) at **[Denovit](https://www.denovit.nl/)**.
 
 - 📫 Email: [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
 
