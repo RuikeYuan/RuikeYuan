@@ -59,7 +59,7 @@
 
 - **Backend Developer** · [Denovit](https://www.denovit.nl/) · Part-time  
   _Mar 2024 - Mar 2025 · 1 yr 1 mo · 's-Gravenhage, Zuid-Holland, Nederland_  
-  Worked on building backend solutions with TypeScript, Postman APIs, and cloud services. Focused on scalable architecture and improving API efficiency.  
+  Worked on building backend solutions with TypeScript, Postman APIs, and cloud services. Focused on scalable architecture and improving API efficiency  
 
 ###
 
