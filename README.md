@@ -3,10 +3,11 @@
 
 <h4 align="left">You can call me either Ricky or Rick or Keke or Ruike 😆</h4>
   
-- 🔭 I am deeply passionate about **algorithms and theories related to Go (board game), including game theory and graph theory — stay tuned!**
+- ✨  I am deeply passionate about **algorithms and theories related to Go (board game), including game theory and graph theory — stay tuned!**
 
 
-- ✨ On the side, I am exploring some practical applications in hardware, as well as robotics and embedded systems development.
+- 🔭 I am also exploring **practical applications in hardware, as well as robotics and embedded systems development**.
+
 
 - 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en)
 
@@ -59,7 +60,7 @@
 
 - **Backend Developer** · [Denovit](https://www.denovit.nl/) · Part-time  
   _Mar 2024 - Mar 2025 · 1 yr 1 mo · 's-Gravenhage, Zuid-Holland, Nederland_  
-  Worked on building backend solutions with TypeScript, Postman APIs, and cloud services. Focused on scalable architecture and improving API efficiency.
+  Worked on building backend solutions with TypeScript, Postman APIs, and cloud services. Focused on scalable architecture and improving API efficiency.  
 
 ###
 
