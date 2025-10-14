@@ -10,11 +10,11 @@
 
 - 🎯 Hobbies: **playing chess, Go, VRChat, football, and swimming**
 
+-  🎓 I completed my preparatory year at **[NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en)**.
+
 - 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en)
 
 - 👨‍💻 Previously, I served as a Full Stack Developer at **[Denovit](https://www.denovit.nl/)**.
-
-- 🎓 I completed my preparatory year at **[NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en)**.
 
 - 📫 Email: [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
 
