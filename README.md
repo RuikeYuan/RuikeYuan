@@ -72,7 +72,7 @@
 
 ###
 
-- **[Battle Bot](https://github.com/RuikeYuan/BattleBot) (2021)**: BattleBot is an autonomous and remotely controlled ESP32-based robot designed for competitive robotics tasks such as line tracking, maze solving, racing, and capture-the-flag (CTF) modes.  
+- **[Battle Bot](https://github.com/RuikeYuan/BattleBot) (2022)**: BattleBot is an autonomous and remotely controlled ESP32-based robot designed for competitive robotics tasks such as line tracking, maze solving, racing, and capture-the-flag (CTF) modes.  
   It integrates sensors, Wi-Fi networking, and OLED display feedback to execute intelligent navigation and combat behaviors.
 
 - **[Metal and Gold Trading Platform](https://github.com/RuikeYuan/Crypto-And-Metal-Trading-Platform) (2024)**: A web-based platform for secure and efficient trading of precious metals, featuring real-time pricing and analytics.
