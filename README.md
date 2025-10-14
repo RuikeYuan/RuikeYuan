@@ -15,6 +15,8 @@
 
 - 📫 Email: [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
 
+- 🎯 Hobbies: **playing chess, Go, VRChat, football, and swimming**
+
 ###
 
 <div align="center">
@@ -71,7 +73,7 @@
 - **[Battle Bot](#)**（2021）: BattleBot is an autonomous and remotely controlled ESP32-based robot designed for competitive robotics tasks such as line tracking, maze solving, racing, and capture-the-flag (CTF) modes.  
   It integrates sensors, Wi-Fi networking, and OLED display feedback to execute intelligent navigation and combat behaviors.
 - **[Metal and Gold Trading Platform](#)**（2024）: A web-based platform for secure and efficient trading of precious metals, featuring real-time pricing and analytics.
-- **[DIY FDM 3D Printer](#)**(2017): Custom-built 3D printer using Arduino and [Marlin](https://marlinfw.org/) firmware, designed for educational and prototyping purposes.
+- **[3D Printer DIY Arduino](#)**(2017): Custom-built 3D printer using Arduino and [Marlin](https://marlinfw.org/) firmware, designed for educational and prototyping purposes.
 - **[ServiceIT](#)**(2022): IT service management tool for streamlining support requests, asset tracking, and workflow automation.
 
 ###
