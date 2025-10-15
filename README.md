@@ -12,7 +12,7 @@
 
 -  🎓 I completed my preparatory year at **[NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en)**.
 
-- 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en)
+- 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en).
 
 - 👨‍💻 Previously, I served as a Full Stack Developer(mainly backend) at **[Denovit](https://www.denovit.nl/)**.
 
