@@ -84,5 +84,12 @@
 ###
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuikeYuan&layout=compact&theme=dark&cache_seconds=1800)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuikeYuan&layout=compact&theme=dark"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
 
