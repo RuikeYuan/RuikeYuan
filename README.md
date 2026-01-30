@@ -84,6 +84,11 @@
 ###
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuikeYuan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuikeYuan&layout=compact&theme=dark"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
