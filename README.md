@@ -1,95 +1,95 @@
-<h1 align="center">👋 Good day , I'm Rick</a> :)</h1>
-<h3 align="center">Full-stack software developer and AI passionator in the Netherlands</h3>
-
-<h4 align="left">You can call me either Ricky or Rick or Keke or Ruike 😆</h4>
-  
-- ✨  I am deeply passionate about **algorithms and theories related to Go (board game), including game theory and graph theory — stay tuned!**
-
-
-- 🔭 I am also exploring **practical applications in hardware, as well as robotics and embedded systems development**.
-
-- 🎯 Hobbies: **playing chess, Go, VRChat, football, and swimming**
-
--  🎓 I completed my preparatory year at **[NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en)**.
-
-- 🎓 Currently, I am a Data Science and Artificial Intelligence Student at [Leiden University](https://www.universiteitleiden.nl/en).
-
-- 👨‍💻 Previously, I served as a Full Stack Developer(mainly backend) at **[Denovit](https://www.denovit.nl/)**.
-
-- 📫 Email: [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruike-yuan-9a137324b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:banbantty12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-
-###
-
-<h2 align="left">⚙️ Tech Stack</h2>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="40" alt="php logo" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" alt="java logo" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40" alt="cpp logo" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
-</div>
-
-###
-
-<h2 align="left">💼 Experience</h2>
-
-###
-
-- **Backend Developer** · [Denovit](https://www.denovit.nl/) · Part-time  
-  _Mar 2024 - Mar 2025 · 1 yr 1 mo · 's-Gravenhage, Zuid-Holland, Nederland_  
-  Worked on building backend solutions with TypeScript, Postman APIs, and cloud services. Focused on scalable architecture and improving API efficiency.  
-  Besides earning, I learned a lot on this job, and I’m really grateful to my boss and colleague for all the guidance and support. 
-###
-
-<h2 align="left"> 🐾 Pet Projects</h2>
-
-###
-
-- **[Battle Bot](https://github.com/RuikeYuan/BattleBot) (2022)**: BattleBot is an autonomous and remotely controlled ESP32-based robot designed for competitive robotics tasks such as line tracking, maze solving, racing, and capture-the-flag (CTF) modes.  
-  It integrates sensors, Wi-Fi networking, and OLED display feedback to execute intelligent navigation and combat behaviors.
-
-- **[Metal and Gold Trading Platform](https://github.com/RuikeYuan/Crypto-And-Metal-Trading-Platform) (2024)**: A web-based platform for secure and efficient trading of precious metals, featuring real-time pricing and analytics.
-
-- **[3D Printer DIY Arduino](https://github.com/RuikeYuan/3D-Printer-DIY-Arduino) (2017)**: Custom-built 3D printer using Arduino and [Marlin](https://marlinfw.org/) firmware, designed for educational and prototyping purposes.
-
-- **[ServiceIT](https://github.com/RuikeYuan/ServiceIT) (2022)**: IT service management tool for streamlining support requests, asset tracking, and workflow automation.
-
-###
-
+<h1 align="center">👋 Hi, I'm Rick</h1>
+<h3 align="center">Full-stack developer & AI enthusiast based in the Netherlands 🇳🇱</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuikeYuan&layout=compact&theme=dark"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <i>You can call me Ricky, Rick, Keke, or Ruike 😆</i>
 </p>
 
+---
 
+### 🚀 About Me
+
+- ✨ Deeply passionate about **algorithms & theory behind the game of Go**  
+  *(game theory, graph theory — more coming soon)*
+
+- 🔭 Exploring **hardware, robotics, and embedded systems**
+
+- 🎯 Hobbies: **Chess, Go, VRChat, football, swimming**
+
+- 🎓 Preparatory Year —  
+  **[NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en)**
+
+- 🎓 Currently studying **Data Science & Artificial Intelligence** at  
+  **[Leiden University](https://www.universiteitleiden.nl/en)**
+
+- 👨‍💻 Former **Backend / Full-Stack Developer** at  
+  **[Denovit](https://www.denovit.nl/)**
+
+- 📫 **Email:** [r.yuan.3@umail.leidenuniv.nl](mailto:r.yuan.3@umail.leidenuniv.nl)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruike-yuan-9a137324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:banbantty12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 💼 Experience
+
+**Backend Developer** · [Denovit](https://www.denovit.nl/)  
+_Mar 2024 – Mar 2025 · Part-time · The Hague, NL_
+
+- Built scalable backend services using **TypeScript & Node.js**
+- Designed and tested APIs with **Postman**
+- Worked on cloud-based architectures and performance optimization  
+- Extremely grateful for the mentorship and team support 🙏
+
+---
+
+## 🐾 Pet Projects
+
+- **[Battle Bot](https://github.com/RuikeYuan/BattleBot)** (2022)  
+  ESP32-based autonomous & remote-controlled robot  
+  *(line tracking, maze solving, racing, CTF)*
+
+- **[Metal & Gold Trading Platform](https://github.com/RuikeYuan/Crypto-And-Metal-Trading-Platform)** (2024)  
+  Secure web platform with real-time pricing & analytics
+
+- **[3D Printer DIY (Arduino)](https://github.com/RuikeYuan/3D-Printer-DIY-Arduino)** (2017)  
+  Custom 3D printer using Arduino + Marlin firmware
+
+- **[ServiceIT](https://github.com/RuikeYuan/ServiceIT)** (2022)  
+  IT service management & workflow automation tool
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuikeYuan&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuikeYuan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
