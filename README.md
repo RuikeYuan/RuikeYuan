@@ -1,4 +1,4 @@
-<h1 align="center">👋 Good day, I'm Rick 🙂</h1>
+<h1 align="center">👋 Good day, I'm Rick, and I am a AI Arrivalists(AI降臨派）🙂</h1>
 <h3 align="center">Full-stack software developer and AI passionator in the Netherlands</h3>
 
 <h4 align="left">You can call me Ricky, Rick, Keke, or Ruike 😆</h4>
